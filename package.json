@@ -1,10 +1,10 @@
 {
-  "name": "@academico-jz/ag-unified",
+  "name": "@academico-jz/ag-jz",
   "version": "1.0.0",
   "description": "CLI global para unificar múltiplos kits Antigravity em um diretório centralizado",
   "type": "module",
   "bin": {
-    "ag-unified": "./bin/index.js"
+    "ag-jz": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
