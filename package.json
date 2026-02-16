@@ -1,0 +1,35 @@
+{
+  "name": "@academico-jz/ag-unified",
+  "version": "1.0.0",
+  "description": "CLI global para unificar múltiplos kits Antigravity em um diretório centralizado",
+  "type": "module",
+  "bin": {
+    "ag-unified": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antigravity",
+    "gemini",
+    "ai",
+    "agent",
+    "kit",
+    "cli"
+  ],
+  "author": "Academico-JZ",
+  "license": "MIT",
+  "dependencies": {
+    "giget": "^1.2.3",
+    "commander": "^12.0.0",
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Academico-JZ/AG-JZ.git"
+  }
+}

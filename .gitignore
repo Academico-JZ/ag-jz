@@ -1,0 +1,4 @@
+node_modules/
+.temp_ag_unified/
+*.log
+.DS_Store
